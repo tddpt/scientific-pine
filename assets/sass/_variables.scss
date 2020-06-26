@@ -2,6 +2,7 @@
 // Variables
 // ==============================
 
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=East+Sea+Dokdo&display=swap');
 // ========== Theme Color ========== //
 // Config here to change theme color
 // Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
@@ -55,7 +56,7 @@ $global-container-padding: 0 20px !default;
 $global-lineheight: 1.8 !default;
 
 // Font family of the site.
-$global-font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !default;
+$global-font-family: 'Cute Font', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
 
 // Serif font family of the site.
 $global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
@@ -79,7 +80,7 @@ $global-headings: (
 $logo-font-size: 36px !default;
 
 // Font family of the logo.
-$logo-font-family: cursive, LiSu, sans-serif !default;
+$logo-font-family: 'East Sea Dokdo', cursive, LiSu, sans-serif;
 
 // Margin of menu item.
 $menu-item-margin-left: 10px !default;
