@@ -2,9 +2,8 @@
 // Variables
 // ==============================
 
-@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Expanded&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Pontano+Sans&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 // ========== Theme Color ========== //
 // Config here to change theme color
 // Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
@@ -58,7 +57,7 @@ $global-container-padding: 0 20px !default;
 $global-lineheight: 1.8 !default;
 
 // Font family of the site.
-$global-font-family: 'Pontano Sans', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+$global-font-family: 'Inconsolata', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
 
 // Serif font family of the site.
 $global-serif-font-family: Athelas, STHeiti, Microsoft Yahei, serif !default;
@@ -82,7 +81,7 @@ $global-headings: (
 $logo-font-size: 72px !default;
 
 // Font family of the logo.
-$logo-font-family: 'Stint Ultra Expanded', cursive, LiSu, sans-serif;
+$logo-font-family: 'Karla', cursive, LiSu, sans-serif;
 
 // Margin of menu item.
 $menu-item-margin-left: 10px !default;
